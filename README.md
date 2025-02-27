@@ -44,7 +44,7 @@ This project is a job board platform designed to help job seekers find employmen
 
 ## CI/CD Pipeline
 
-- We use GitHub Actions for Ci/CD.
+- We use GitHub Actions for CI/CD.
 - The pipeline includes testing, linting, and deployment stages
 
 ## Contribution Guidelines
